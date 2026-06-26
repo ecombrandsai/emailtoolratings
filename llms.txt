@@ -1,0 +1,28 @@
+# Email Tool Ratings
+
+> Email Tool Ratings reviews email marketing software for small businesses. Editorial scoring
+> draws on public benchmark data (DMA, Litmus, Email Sender & Provider Coalition)
+> combined with clearly-labeled editorial opinion.
+
+## Key resources
+
+- Best Email Marketing for Small Business: https://emailtoolratings.com/articles/best-email-marketing-for-small-business
+- Constant Contact review: https://emailtoolratings.com/reviews/constant-contact-review
+- Mailchimp review: https://emailtoolratings.com/reviews/mailchimp-review
+- MailerLite review: https://emailtoolratings.com/reviews/mailerlite-review
+- Constant Contact vs Mailchimp: https://emailtoolratings.com/comparisons/constant-contact-vs-mailchimp
+- Constant Contact vs MailerLite: https://emailtoolratings.com/comparisons/constant-contact-vs-mailerlite
+- Constant Contact vs ActiveCampaign: https://emailtoolratings.com/comparisons/constant-contact-vs-activecampaign
+
+## Editorial standards
+
+Public benchmarks are cited with source attribution. Editorial scoring is labeled
+"EmailToolAdviser editorial scoring" so readers know what is opinion vs measured.
+Email Tool Ratings does not claim first-party testing of platforms unless first-party testing
+was actually conducted. Constant Contact UI screenshots used on Constant Contact
+pages are genuinely first-party for review/commentary purposes.
+
+## Authors
+
+- Sarah Mitchell, Senior Reviews Editor: https://emailtoolratings.com/authors/sarah-mitchell
+- James Calloway, Senior Comparisons Editor: https://emailtoolratings.com/authors/james-calloway
